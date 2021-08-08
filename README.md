@@ -1,2 +1,2 @@
-# vertical-slider
-HTML, CSS and JavaScript vertical sliders project
+# Vertical slider
+HTML, CSS and JavaScript vertical sliders project.
